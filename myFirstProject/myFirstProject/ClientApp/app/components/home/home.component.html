@@ -1,0 +1,7 @@
+<div class="alert alert-info text-center" role="alert" *ngIf="!cards">
+    Loading advertisings...
+</div>
+<div class="alert alert-info text-center" role="alert" *ngIf="cards?.length == 0">
+    Not found advertising... Oops:(
+</div>
+<card-summary-component *ngFor="let card of cards" [card]="card"></card-summary-component>

@@ -1,0 +1,55 @@
+html {
+    min-width: 250px;
+}
+
+body {
+	padding-top: 80px;
+}
+
+a.my-badge {
+    font-size: 87%;
+}
+
+.badge-primary {
+    color: #fff;
+    background-color: #963fc7;
+}
+
+.card {
+	margin-bottom: 5px;
+}
+
+.card-header {
+    background-color: darkorchid;
+    text-align: center;
+}
+
+.card-header:first-child {
+	background-color: darkorchid;
+	text-align: center;
+}
+
+.card-header a {
+	color: white;
+    text-decoration: none;
+}
+
+.card-header a:hover {
+    color: white;
+    opacity: 0.5;
+    text-decoration: none;
+}
+
+.btn-outline-secondary:hover {
+    color: white;
+    background-color: darkorchid;
+    border-color: darkorchid;
+}
+
+.card-body button {
+    width: calc(100%);
+}
+
+.card-title {
+    color: white;
+}

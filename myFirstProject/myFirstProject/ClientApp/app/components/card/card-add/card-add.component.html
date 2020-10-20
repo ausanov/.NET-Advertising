@@ -1,0 +1,62 @@
+﻿<div class="alert alert-info" role="alert" [hidden]="addForm.form.valid">
+    Write in all required fields.
+</div>
+
+<div class="card">
+    <div class="card-header">
+        <h3 class="card-title">Add advertising</h3>
+    </div>
+    <div class="card-body">
+        <div class="card-text">
+            <form (ngSubmit)="add()" #addForm="ngForm">
+                <div class="form-group">
+                    <label for="title"><strong>Title*</strong></label>
+                    <input type="text" class="form-control" name="title" required [(ngModel)]="card.title" placeholder="Input small title pf the advertising (50 symbols)">
+                </div>
+                <div class="form-group">
+                    <label for="text"><strong>Short description*</strong></label>
+                    <input type="text" class="form-control" name="text" required [(ngModel)]="card.text" placeholder="Input short description of the advertising (150 symbols)">
+                </div>
+                <div class="form-group">
+                    <label for="type"><strong>Category*</strong></label>
+                    <select class="form-control" name="type" required [(ngModel)]="card.type" placeholder="Input category of advertising">
+                        <option *ngFor="let type of types" [value]="type">{{ type }}</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="longText">Details</label>
+                    <input type="text" class="form-control" name="longText" [(ngModel)]="card.longText" placeholder="Input the details">
+                </div>
+                <div class="form-group">
+                    <label for="price">Price</label>
+                    <input type="number" class="form-control" name="price" [(ngModel)]="card.price" placeholder="0.00">
+                </div>
+                <div class="form-group">
+                    <label for="name"><strong>Name*</strong></label>
+                    <input type="text" class="form-control" name="name" required [(ngModel)]="card.name" placeholder="Input your name">
+                </div>
+                <div class="form-group">
+                    <label for="phone"><strong>Telephone*</strong></label>
+                    <input type="tel" class="form-control" name="phone" required pattern="\+380[0-9]{9}" [(ngModel)]="card.phone" placeholder="+38 (099) 99-99-999">
+                </div>
+                <div class="form-group">
+                    <label for="email"><strong>Email*</strong></label>
+                    <input type="email" class="form-control" name="email" required email [(ngModel)]="card.email" placeholder="mail@domen.com">
+                </div>
+                <div class="form-group">
+                    <label for="site">WebSite</label>
+                    <input type="url" class="form-control" name="site" [(ngModel)]="card.site" placeholder="https://google.com.ua/">
+                </div>
+                <div class="form-group">
+                    <label for="city">City</label>
+                    <input type="text" class="form-control" name="city" [(ngModel)]="card.city" placeholder="Input your city">
+                </div>
+                <div class="form-group">
+                    <label for="tags">Tags</label>
+                    <input type="text" class="form-control" name="tags" [(ngModel)]="card.tags" placeholder="Input your most important tags">
+                </div>
+                <button type="submit" class="btn btn-primary float-left" [disabled]="!addForm.form.valid">Add</button>
+            </form>
+        </div>
+    </div>
+</div>

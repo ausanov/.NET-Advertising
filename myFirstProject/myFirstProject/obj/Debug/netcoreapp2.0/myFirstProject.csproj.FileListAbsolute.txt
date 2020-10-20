@@ -1,0 +1,46 @@
+D:\Angular\myFirstProject\myFirstProject\bin\Debug\netcoreapp2.0\myFirstProject.deps.json
+D:\Angular\myFirstProject\myFirstProject\bin\Debug\netcoreapp2.0\myFirstProject.runtimeconfig.json
+D:\Angular\myFirstProject\myFirstProject\bin\Debug\netcoreapp2.0\myFirstProject.runtimeconfig.dev.json
+D:\Angular\myFirstProject\myFirstProject\bin\Debug\netcoreapp2.0\myFirstProject.dll
+D:\Angular\myFirstProject\myFirstProject\bin\Debug\netcoreapp2.0\myFirstProject.pdb
+D:\Angular\myFirstProject\myFirstProject\obj\Debug\netcoreapp2.0\myFirstProject.csprojAssemblyReference.cache
+D:\Angular\myFirstProject\myFirstProject\obj\Debug\netcoreapp2.0\myFirstProject.csproj.CoreCompileInputs.cache
+D:\Angular\myFirstProject\myFirstProject\obj\Debug\netcoreapp2.0\myFirstProject.AssemblyInfoInputs.cache
+D:\Angular\myFirstProject\myFirstProject\obj\Debug\netcoreapp2.0\myFirstProject.AssemblyInfo.cs
+D:\Angular\myFirstProject\myFirstProject\obj\Debug\netcoreapp2.0\myFirstProject.dll
+D:\Angular\myFirstProject\myFirstProject\obj\Debug\netcoreapp2.0\myFirstProject.pdb
+D:\Angular\myFirstProject\myFirstProject\obj\Debug\netcoreapp2.0\myFirstProject.Properties.Resources.resources
+D:\Angular\myFirstProject\myFirstProject\obj\Debug\netcoreapp2.0\myFirstProject.csproj.GenerateResource.cache
+D:\Angular\projects\myFirstProject\myFirstProject\bin\Debug\netcoreapp2.0\myFirstProject.deps.json
+D:\Angular\projects\myFirstProject\myFirstProject\bin\Debug\netcoreapp2.0\myFirstProject.runtimeconfig.json
+D:\Angular\projects\myFirstProject\myFirstProject\bin\Debug\netcoreapp2.0\myFirstProject.runtimeconfig.dev.json
+D:\Angular\projects\myFirstProject\myFirstProject\bin\Debug\netcoreapp2.0\myFirstProject.dll
+D:\Angular\projects\myFirstProject\myFirstProject\bin\Debug\netcoreapp2.0\myFirstProject.pdb
+D:\Angular\projects\myFirstProject\myFirstProject\obj\Debug\netcoreapp2.0\myFirstProject.csprojAssemblyReference.cache
+D:\Angular\projects\myFirstProject\myFirstProject\obj\Debug\netcoreapp2.0\myFirstProject.Properties.Resources.resources
+D:\Angular\projects\myFirstProject\myFirstProject\obj\Debug\netcoreapp2.0\myFirstProject.csproj.GenerateResource.cache
+D:\Angular\projects\myFirstProject\myFirstProject\obj\Debug\netcoreapp2.0\myFirstProject.csproj.CoreCompileInputs.cache
+D:\Angular\projects\myFirstProject\myFirstProject\obj\Debug\netcoreapp2.0\myFirstProject.AssemblyInfoInputs.cache
+D:\Angular\projects\myFirstProject\myFirstProject\obj\Debug\netcoreapp2.0\myFirstProject.AssemblyInfo.cs
+D:\Angular\projects\myFirstProject\myFirstProject\obj\Debug\netcoreapp2.0\myFirstProject.dll
+D:\Angular\projects\myFirstProject\myFirstProject\obj\Debug\netcoreapp2.0\myFirstProject.pdb
+C:\Users\ASUS\Desktop\University (Bachelor degree)\WEB\Angular\projects\myFirstProject\myFirstProject\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\ASUS\Desktop\University (Bachelor degree)\WEB\Angular\projects\myFirstProject\myFirstProject\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\ASUS\Desktop\University (Bachelor degree)\WEB\Angular\projects\myFirstProject\myFirstProject\bin\Debug\netcoreapp2.0\npm-shrinkwrap.json
+C:\Users\ASUS\Desktop\University (Bachelor degree)\WEB\Angular\projects\myFirstProject\myFirstProject\bin\Debug\netcoreapp2.0\package.json
+C:\Users\ASUS\Desktop\University (Bachelor degree)\WEB\Angular\projects\myFirstProject\myFirstProject\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\ASUS\Desktop\University (Bachelor degree)\WEB\Angular\projects\myFirstProject\myFirstProject\bin\Debug\netcoreapp2.0\tsconfig.json
+C:\Users\ASUS\Desktop\University (Bachelor degree)\WEB\Angular\projects\myFirstProject\myFirstProject\bin\Debug\netcoreapp2.0\myFirstProject.deps.json
+C:\Users\ASUS\Desktop\University (Bachelor degree)\WEB\Angular\projects\myFirstProject\myFirstProject\bin\Debug\netcoreapp2.0\myFirstProject.runtimeconfig.json
+C:\Users\ASUS\Desktop\University (Bachelor degree)\WEB\Angular\projects\myFirstProject\myFirstProject\bin\Debug\netcoreapp2.0\myFirstProject.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\University (Bachelor degree)\WEB\Angular\projects\myFirstProject\myFirstProject\bin\Debug\netcoreapp2.0\myFirstProject.dll
+C:\Users\ASUS\Desktop\University (Bachelor degree)\WEB\Angular\projects\myFirstProject\myFirstProject\bin\Debug\netcoreapp2.0\myFirstProject.pdb
+C:\Users\ASUS\Desktop\University (Bachelor degree)\WEB\Angular\projects\myFirstProject\myFirstProject\obj\Debug\netcoreapp2.0\myFirstProject.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\University (Bachelor degree)\WEB\Angular\projects\myFirstProject\myFirstProject\obj\Debug\netcoreapp2.0\myFirstProject.Properties.Resources.resources
+C:\Users\ASUS\Desktop\University (Bachelor degree)\WEB\Angular\projects\myFirstProject\myFirstProject\obj\Debug\netcoreapp2.0\myFirstProject.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\University (Bachelor degree)\WEB\Angular\projects\myFirstProject\myFirstProject\obj\Debug\netcoreapp2.0\myFirstProject.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\University (Bachelor degree)\WEB\Angular\projects\myFirstProject\myFirstProject\obj\Debug\netcoreapp2.0\myFirstProject.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\University (Bachelor degree)\WEB\Angular\projects\myFirstProject\myFirstProject\obj\Debug\netcoreapp2.0\myFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\University (Bachelor degree)\WEB\Angular\projects\myFirstProject\myFirstProject\obj\Debug\netcoreapp2.0\myFirstProject.dll
+C:\Users\ASUS\Desktop\University (Bachelor degree)\WEB\Angular\projects\myFirstProject\myFirstProject\obj\Debug\netcoreapp2.0\myFirstProject.pdb
+C:\Users\ASUS\Desktop\University (Bachelor degree)\WEB\Angular\projects\myFirstProject\myFirstProject\obj\Debug\netcoreapp2.0\myFirstProject.genruntimeconfig.cache

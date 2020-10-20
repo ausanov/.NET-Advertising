@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html lang="@myFirstProject.Properties.Resources.ResourceManager.GetString("Language")">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Get Advertising Easy</title>
+    <meta name="description" content="@myFirstProject.Properties.Resources.ResourceManager.GetString("Description")" />
+    <meta name="keywords" content="@myFirstProject.Properties.Resources.ResourceManager.GetString("Keywords")" />
+    <meta name="author" content="@myFirstProject.Properties.Resources.ResourceManager.GetString("Anton Usanov")" />
+    <base href="~/" />
+    <link rel="shortcut icon" href="~/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="~/style.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/bootstrap.css" asp-append-version="true"/>
+    <script src="~/bootstrap.js" asp-append-version="true"></script>
+</head>
+<body>
+    @RenderBody()
+
+    @RenderSection("scripts", required: false)
+</body>
+</html>
